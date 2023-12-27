@@ -340,7 +340,7 @@
   "k_1p2lyuz": "对方正在输入中...",
   "k_1g8wfpy": "...共$option1人",
   "k_12rv9vw": "回应详情",
-  "k_0havgi0": "[查看详情 >>](${linkMessage.link})",
+  "k_0havgi0": "[查看详情 >>](${linkMessage})",
   "k_0n9p7g8": "群组不存在",
   "k_1tdh5vn": "您不是群成员",
   "k_0h1q57v": "暂无群成员",
